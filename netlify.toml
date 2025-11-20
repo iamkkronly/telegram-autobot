@@ -1,0 +1,3 @@
+[build]
+  # Specifies the directory where Netlify will find the serverless function files.
+  functions = "netlify/functions"
